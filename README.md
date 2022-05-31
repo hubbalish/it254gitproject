@@ -3,4 +3,4 @@ for class
 
 ## kevin was here
 ## jeremy was here
-## Don S. Was here 
+## Don S. Was here.
