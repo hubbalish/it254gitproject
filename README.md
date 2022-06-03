@@ -1,5 +1,5 @@
 # it254gitproject
-for class
+for IT254 class project
 
 ## kevin was here
 ## jeremy was here
