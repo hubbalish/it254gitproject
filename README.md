@@ -5,3 +5,4 @@ for class
 ## jeremy was here
 ## isaac was here
 ## dianna was here
+## connor was here
