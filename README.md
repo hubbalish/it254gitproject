@@ -1,5 +1,5 @@
 # it254gitproject
-for class
+for IT254 class project
 
 ## kevin was here
 ## jeremy was here
@@ -9,3 +9,4 @@ for class
 ## viet was here
 $$ Bryce was here
 ## William Wuz here
+
